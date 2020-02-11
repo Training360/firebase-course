@@ -1,0 +1,14 @@
+{
+    "name": "jquery-beginner",
+    "description": "jQuey beginner course",
+    "author": {
+        "name": "Cserkó József",
+        "email": "jozsef.cserko@training360.com",
+        "url": "https://training360.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Training360/jquery-beginner"
+    },
+    "dependencies": {}
+}
